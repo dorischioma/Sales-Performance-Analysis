@@ -189,7 +189,7 @@ Technology dominates as the highest-performing category, supported by strong cus
 ### Key Insights
 
 ### 1. Technology Products Are the Most Preferred Across All Age Groups
-All age groups — especially Seniors and Young Adults — show their highest spending in the **Technology** category.  
+All age groups especially Seniors and Young Adults show their highest spending in the **Technology** category.  
 This indicates strong overall demand and suggests technology offers the highest revenue potential for future product expansion.
 
 ### 2. Phones and Chairs Are the Best-Selling Products
