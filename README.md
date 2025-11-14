@@ -98,7 +98,7 @@ To connect, clean, and merge all data sources into a single Excel-based model us
 **Key Metrics:** Profit, Revenue, ROI, Orders, Discounts, Delivery Time    
 The business is experiencing strong growth and high customer activity, but profit margins are being held back by rising costs and extensive discounting. Strategic improvements in discount control, regional expansion, and shipping efficiency can significantly boost overall performance.
 
-## Key Insights
+### Key Insights
 
 ### 1. Strong Revenue Growth but Margin Pressure
 The business generated **$2.3M in revenue** with a healthy YoY increase. However, **profit margin sits at 12.47%**, showing a slight decline due to rising operational costs and heavy use of discounts. This indicates the need for tighter cost control and more strategic discounting.
@@ -124,14 +124,14 @@ Average delivery time stands at **3.96 days**, with most orders fulfilled within
 - Reducing the cost of Standard Class through logistics optimization
 
 
-
+## Customer Dashboard
 ![Customer Dashboard](https://github.com/dorischioma/Sales-Performance-Analysis/blob/main/Customer%20Dashboard.png)  
 
   
 The business is supported primarily by **Consumer-segment, senior, and loyal customers**, who generate the highest revenue and profit with minimal discount dependency. Low-value and declining customers are discount-heavy and cost the business more than they contribute. Strategic focus on high-value segments and conversion of one-time buyers will drive stronger long-term customer profitability.
 
 
-## Key Insights
+### Key Insights
 
 ### 1. Consumer Segment Dominates the Customer Base
 The **Consumer segment (409 customers)** is the largest group compared to Corporate and Home Office.  
@@ -182,14 +182,14 @@ In the profit-by-age chart:
 These two demographics represent the highest profit potential and should be prioritized for targeted campaigns.
 
 
-
+## Product Dashboard
 ![Product Dashboard](https://github.com/dorischioma/Sales-Performance-Analysis/blob/main/Product%20Dashboard.png)  
 
 
 Technology dominates as the highest-performing category, supported by strong customer preference across all age groups. However, unprofitable discounting—especially in **Tables, Bookcases, and Supplies**—is dragging down product margins. Best-sellers like **Phones, Chairs, Binders, and Paper** continue to drive both demand and revenue, signaling where the company should concentrate inventory and promotional efforts.
 
 
-## Key Insights
+### Key Insights
 
 ### 1. Technology Products Are the Most Preferred Across All Age Groups
 All age groups — especially Seniors and Young Adults — show their highest spending in the **Technology** category.  
