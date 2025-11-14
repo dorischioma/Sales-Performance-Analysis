@@ -91,6 +91,7 @@ To connect, clean, and merge all data sources into a single Excel-based model us
 
 # Dashboards & Insights
 
+## Overview dashboard
 ![Overview Dashboard](https://github.com/dorischioma/Sales-Performance-Analysis/blob/main/Overview%20Dashboard.png)  
 
  
