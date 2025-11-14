@@ -1,7 +1,7 @@
  
 ## Sales & Customer Performance Dashboard
 
-## Description  
+## Project Overview  
 NexSpace Retail, a growing US-based store dealing in technology, office supplies, and furniture, faced a familiar challenge shared by many retail businesses: **their data lived everywhere except in one place**.
 
 Sales records were in a database.  
