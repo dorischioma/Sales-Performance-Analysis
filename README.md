@@ -2,7 +2,7 @@
 # Project Overview
 
 ## Project Title  
-**Integrated Sales, Customer, and Product Performance Dashboard**
+**Sales, Customer, and Product Performance Dashboard**
 
 ## Description  
 NexSpace Retail, a growing US-based store dealing in technology, office supplies, and furniture, faced a familiar challenge shared by many retail businesses: **their data lived everywhere except in one place**.
