@@ -92,7 +92,8 @@ To connect, clean, and merge all data sources into a single Excel-based model us
 ![Overview Dashboard](https://github.com/dorischioma/Sales-Performance-Analysis/blob/main/Overview%20Dashboard.png)  
 
  
-**Key Metrics:** Profit, Revenue, ROI, Orders, Discounts, Delivery Time    
+**Key Metrics:** Profit, Revenue, ROI, Orders, Discounts, Delivery Time   
+  
 The business is experiencing strong growth and high customer activity, but profit margins are being held back by rising costs and extensive discounting. Strategic improvements in discount control, regional expansion, and shipping efficiency can significantly boost overall performance.
 
 ### Key Insights
