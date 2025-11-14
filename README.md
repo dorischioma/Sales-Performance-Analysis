@@ -80,7 +80,8 @@ To connect, clean, and merge all data sources into a single Excel-based model us
 - Created calculated columns such as **Customer Value Category**, **ROI**, **Profit Margin**, **Discounted Amount**, **Discounted Status**, etc.  
 - Developed measures for **YoY Growth**, **Revenue**, **Profit**, **Average Order Value**, and more.  
 
----- data modelling image ----
+![Data Modelling](https://github.com/dorischioma/Sales-Performance-Analysis/blob/main/Data%20Modelling.png)  
+
 
 ## Dashboard Development
 - Designed **5 interactive dashboards** using Excel charts, slicers, and KPIs.  
@@ -90,7 +91,8 @@ To connect, clean, and merge all data sources into a single Excel-based model us
 
 # Dashboards & Insights
 
-## Overview Dashboard
+![Overview Dashboard](https://github.com/dorischioma/Sales-Performance-Analysis/blob/main/Overview%20Dashboard.png)  
+
  
 **Key Metrics:** Profit, Revenue, ROI, Orders, Discounts, Delivery Time    
 The business is experiencing strong growth and high customer activity, but profit margins are being held back by rising costs and extensive discounting. Strategic improvements in discount control, regional expansion, and shipping efficiency can significantly boost overall performance.
@@ -122,7 +124,8 @@ Average delivery time stands at **3.96 days**, with most orders fulfilled within
 
 
 
-## Customer Dashboard  
+![Customer Dashboard](https://github.com/dorischioma/Sales-Performance-Analysis/blob/main/Customer%20Dashboard.png)  
+
   
 The business is supported primarily by **Consumer-segment, senior, and loyal customers**, who generate the highest revenue and profit with minimal discount dependency. Low-value and declining customers are discount-heavy and cost the business more than they contribute. Strategic focus on high-value segments and conversion of one-time buyers will drive stronger long-term customer profitability.
 
@@ -179,7 +182,8 @@ These two demographics represent the highest profit potential and should be prio
 
 
 
-# Product Dashboard
+![Product Dashboard](https://github.com/dorischioma/Sales-Performance-Analysis/blob/main/Product%20Dashboard.png)  
+
 
 Technology dominates as the highest-performing category, supported by strong customer preference across all age groups. However, unprofitable discounting—especially in **Tables, Bookcases, and Supplies**—is dragging down product margins. Best-sellers like **Phones, Chairs, Binders, and Paper** continue to drive both demand and revenue, signaling where the company should concentrate inventory and promotional efforts.
 
