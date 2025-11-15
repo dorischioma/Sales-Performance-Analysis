@@ -93,11 +93,7 @@ To connect, clean, and merge all data sources into a single Excel-based model us
 
  
 **Key Metrics:** **Profit, Revenue, ROI, Orders, Discounts, Delivery Time**  
-  
-The business is experiencing strong growth and high customer activity, but profit margins are being held back by rising costs and extensive discounting. Strategic improvements in discount control, regional expansion, and shipping efficiency can significantly boost overall performance.
-
-#### Key Insights
-
+####Insights  
 #### 1. Strong Revenue Growth but Margin Pressure
 The business generated **$2.3M in revenue** with a healthy YoY increase. However, **profit margin sits at 12.47%**, showing a slight decline due to rising operational costs and heavy use of discounts. This indicates the need for tighter cost control and more strategic discounting.
 
@@ -124,10 +120,6 @@ Average delivery time stands at **3.96 days**, with most orders fulfilled within
 
 ### Customer Dashboard
 ![Customer Dashboard](https://github.com/dorischioma/Sales-Performance-Analysis/blob/main/Customer%20Dashboard.png)  
-
-  
-The business is supported primarily by **Consumer-segment, senior, and loyal customers**, who generate the highest revenue and profit with minimal discount dependency. Low-value and declining customers are discount-heavy and cost the business more than they contribute. Strategic focus on high-value segments and conversion of one-time buyers will drive stronger long-term customer profitability.
-
 
 #### Key Insights
 
@@ -182,10 +174,6 @@ These two demographics represent the highest profit potential and should be prio
 
 ### Product Dashboard
 ![Product Dashboard](https://github.com/dorischioma/Sales-Performance-Analysis/blob/main/Product%20Dashboard.png)  
-
-
-Technology dominates as the highest-performing category, supported by strong customer preference across all age groups. However, unprofitable discounting—especially in **Tables, Bookcases, and Supplies** is dragging down product margins. Best-sellers like **Phones, Chairs, Binders, and Paper** continue to drive both demand and revenue, signaling where the company should concentrate inventory and promotional efforts.
-
 
 #### Key Insights
 
@@ -245,8 +233,109 @@ Senior customers consistently have the highest spending across:
 - Office Supplies  
 - Technology  
 
-This means the older demographic directly influences product performance, and **personalized offers** for this group can boost revenue further.
+This means the older demographic directly influences product performance, and **personalized offers** for this group can boost revenue further.  
+
+### Sales Dashboard  
+![Sales Dashboard](https://github.com/dorischioma/Sales-Performance-Analysis/blob/main/Product%20Dashboard.png)  
+
+#### Key Insights
+#### 1. Daily sales trend  
+- Sales peak on **Monday–Tuesday**, averaging around **$380K–$420K**.  
+- The lowest sales occur on **Wednesday–Thursday**, dropping to about **$200K–$230K**.  
+- Sales recover again from **Friday–Saturday**, stabilizing around **$350K+**.  
+
+#### 2. Quarterly sales trend
+- **Q2** recorded the highest sales at **$841K**, significantly outperforming all other quarters.  
+- **Q1** follows with **$636K**, while **Q3** declines sharply to **$386K**.  
+- **Q4** slightly recovers to **$436K**, but remains below the first half of the year.  
 
 
+#### 3. Discount vs Revenue
+- Revenue peaks in **May** at approximately **$350K–$380K**, aligning with a slight increase in discount amounts.  
+- A major revenue drop occurs in **July and August**, falling below **$200K** even though discount levels remain relatively steady.  
+- Revenue remains moderate from **September to December** (**$220K–$260K** range).  
 
+#### 4. Discount vs Profit
+###### Jan–May:
+- Discounts rise from **~$20K → ~$55K**  
+- Profit rises from **~$15K → ~$45K**
+
+##### Jun–Aug:
+- Discounts fall to **~$10K**  
+- Profit also drops to **~$10K**
+
+##### Sep–Oct:
+- Discount increases reignite profit recovery (**~$30K**)
+
+##### Nov–Dec:
+- Both metrics stabilize around **~$20K**
+
+**Insight:**  
+Profitability improves when discounting increases—customers respond positively to promotional pricing.
+
+### Geo map Dashboard
+![Geo map Dashboard](https://github.com/dorischioma/Sales-Performance-Analysis/blob/main/Product%20Dashboard.png)  
+#### Best Overall States (Strong Revenue, Margin & Customer Base)
+- California: High revenue ($451K) + high margin (13%) + most customers.  
+- New York: High revenue ($280K) + high margin (21%).  
+- Texas: Strong revenue ($193K) + stable margin (11%).  
+- Pennsylvania: High revenue ($143K) + solid 10% margin.  
+
+#### High-Revenue but Low-Profit States  
+- North Carolina: $117K revenue but –4% margin (loss).  
+- Florida: $50K revenue but only 2% margin.
+- Colorado: $58K revenue with 2% margin.  
+
+#### High Margin but Low Revenue States (Growth Opportunity)  
+These states show strong profit margins but low revenue due to small customer bases:  
+- Maryland (27% margin, $2K revenue)  
+- Nevada (23% margin, $1K revenue)  
+- D.C. (22% margin, $2K revenue)  
+- New Mexico (22% margin, $6K revenue)  
+= South Dakota (30% margin, $3K revenue)  
+
+
+## Conclusion  
+- The business is experiencing strong growth and high customer activity, but profit margins are being held back by rising costs and extensive discounting. Strategic improvements in discount control, regional expansion, and shipping efficiency can significantly boost overall performance.
+- The business is supported primarily by **Consumer-segment, senior, and loyal customers**, who generate the highest revenue and profit with minimal discount dependency. Low-value and declining customers are discount-heavy and cost the business more than they contribute. Strategic focus on high-value segments and conversion of one-time buyers will drive stronger long-term customer profitability.  
+- Technology dominates as the highest-performing category, supported by strong customer preference across all age groups. However, unprofitable discounting—especially in **Tables, Bookcases, and Supplies** is dragging down product margins. Best-sellers like **Phones, Chairs, Binders, and Paper** continue to drive both demand and revenue, signaling where the company should concentrate inventory and promotional efforts.
+- Mid-week drop indicates lower buying activity; the business performs strongest at the start and end of the week.
+- Sales momentum is strongest in the first half of the year, with a major peak in Q2. The low Q3 performance may indicate seasonal slowdown or reduced consumer activity.
+- Discounts do not strongly drive revenue. Even with stable discounting, revenue dips in mid-year, suggesting external factors like seasonality or reduced demand.
+- Profit and discount amount show a **strong positive correlation** throughout the year.  
+
+## Recommendations
+- Reduce Discounts in Loss-Making States
+- Protect & Invest in High-Value States
+- Expand in High-Margin Small States
+- Address Low Margin States
+  - Oregon, Arkansas, Florida, Colorado.
+  - Investigate:
+    - Shipping cost?
+    - Discount abuse?
+    - Channel profitability?
+- Build State-Specific Strategies
+ - High revenue + high margin → Growth & retention focus
+ - Low revenue + high margin → Market expansion
+ - High revenue + low margin → Cost correction
+ - Low revenue + low margin → Consider deprioritizing
+- Focus on Loyal and Young Adult/Senior customers, who generate the highest revenue and purchase value.
+- Launch targeted retention campaigns for Occasional customers (email reminders, loyalty points, tailored bundles).
+- Reduce excessive discounting for already high-value segments to improve profit margins.
+- Expand Technology product offerings, especially Phones and Computer Accessories.
+- Reassess or reposition low-performing product categories (Supplies, Art).
+- Reduce deep discounts on unprofitable items like Tables and Bookcases, or consider phase-out.
+- Increase inventory for high-demand products (Binders, Paper, Phones) to maintain fulfillment efficiency
+- Shift from broad discounting to targeted, data-driven promotions.  
+- Apply discounts mainly to Elastic products (Copiers, Paper) that remain profitable even with price cuts.
+- Reduce discount intensity in the South region, where high discounting is hurting profit.
+- Prepare inventory in advance for mid-year peak months.  
+- Spread out promotional spending to avoid heavy profit drops in Q2 and Q4.  
+- Introduce cross-sell bundles during peak periods to increase revenue without heavy discounts.  
+- Conduct deeper analysis of the South region’s low profitability — likely due to discounting or logistics inefficiencies.  
+- Grow presence in the East & Central regions with targeted ads or partnerships.
+- Strengthen logistics and reduce delivery delays by working with better carriers or optimizing routes.
+
+
+  
 
