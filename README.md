@@ -15,14 +15,11 @@ Because everything was disconnected, leadership struggled to answer basic but cr
 - *Are sales increasing, or declining?*
 
 To solve this, I designed and built a fully integrated Excel dashboard using **Power Query** and the **Excel Data Model (Power Pivot)**.  
-This project brought together all data sources—database tables, folder files, and XML feeds—into one automated, unified system.  
+This project brought together all data sources database tables, folder files, and XML feeds into one automated, unified system.  
 
-The result was an interactive dashboard that tells a complete story of the business:  
-how customers behave, which products category outperform others, and where sales opportunities lie.  
+The result was an interactive dashboard that tells a complete story of the business, how customers behave, which products category outperform others, and where sales opportunities lie.  
 With real-time insights and clear KPIs, NexSpace Retail finally gained the clarity and confidence needed to make informed decisions.
 
-
----
 
 ## Business Challenge
 
@@ -64,10 +61,8 @@ To connect, clean, and merge all data sources into a single Excel-based model us
 
 1. Connected all data sources directly into Excel using **Power Query** (no manual export).  
 2. Cleaned and standardized data: removed duplicates, fixed data types, merged columns.  
-3. Created relationships using **Customer ID**, **Product ID**, and **Region** keys.  
+3. Created relationships using **Customer ID**, and **Product ID** keys.  
 4. Loaded the clean model into Excel’s **Data Model** for analysis.
-
-
 
 
 ## Methodology
@@ -83,7 +78,7 @@ To connect, clean, and merge all data sources into a single Excel-based model us
 ### Dashboard Development
 - Designed **5 interactive dashboards** using Excel charts, slicers, and KPIs.  
 - Grouped visuals logically to tell a clear, actionable story.  
-- Applied **conditional formatting** and **icon indicators** (▲▼ for growth) for intuitive insights.
+- Applied **icon indicators** (▲▼ for growth) for intuitive insights.
 
 
 ## Dashboards & Insights
@@ -92,8 +87,7 @@ To connect, clean, and merge all data sources into a single Excel-based model us
 ![Overview Dashboard](https://github.com/dorischioma/Sales-Performance-Analysis/blob/main/Overview%20Dashboard.png)  
 
  
-**Key Metrics:** **Profit, Revenue, ROI, Orders, Discounts, Delivery Time**  
-####Insights  
+#### Insights  
 #### 1. Strong Revenue Growth but Margin Pressure
 The business generated **$2.3M in revenue** with a healthy YoY increase. However, **profit margin sits at 12.47%**, showing a slight decline due to rising operational costs and heavy use of discounts. This indicates the need for tighter cost control and more strategic discounting.
 
@@ -110,7 +104,7 @@ The **West region** leads with **$765K in revenue**, while Central and South reg
 Sales peak around **May–June**, with dips toward late Q3. Understanding this seasonal behavior can help management optimize inventory, promotions, and workforce planning.
 
 #### 6. Shipping Efficiency Is Moderate with Room for Improvement
-Average delivery time stands at **3.96 days**, with most orders fulfilled within **2–5 days**. Improving deliveries in the **4–7 day category** can enhance customer satisfaction and competitiveness.
+Average delivery time stands at **3.96 days**, with most orders fulfilled within **2–5 days**. 
 
 #### 7. Standard Class Shipping Dominates
 **60% of customers** select Standard Class shipping, indicating cost sensitivity. This opens opportunities for:  
@@ -139,8 +133,7 @@ These groups could be further nurtured with:
 - Loyalty discounts  
 
 #### 4. Loyal Customers Are the Revenue Powerhouse
-The **Loyal customer segment** delivers the highest revenue (**$943K**) with lower discount usage compared to other categories.  
-This confirms that loyalty programs work, and these customers should remain a priority for retention strategies.
+The **Loyal customer segment** delivers the highest revenue (**$943K**) with lower discount usage compared to other categories, these customers should remain a priority for retention strategies.
 
 #### 5. One-Time Buyers Present a Growth Opportunity
 One-time buyers contribute **$835K in revenue** but consume **$120K in discounts**, suggesting many buy only during promotions.  
@@ -270,9 +263,6 @@ This means the older demographic directly influences product performance, and **
 ##### Nov–Dec:
 - Both metrics stabilize around **~$20K**
 
-**Insight:**  
-Profitability improves when discounting increases—customers respond positively to promotional pricing.
-
 ### Geo map Dashboard
 ![Geo map Dashboard](https://github.com/dorischioma/Sales-Performance-Analysis/blob/main/Product%20Dashboard.png)  
 #### Best Overall States (Strong Revenue, Margin & Customer Base)
@@ -292,13 +282,13 @@ These states show strong profit margins but low revenue due to small customer ba
 - Nevada (23% margin, $1K revenue)  
 - D.C. (22% margin, $2K revenue)  
 - New Mexico (22% margin, $6K revenue)  
-= South Dakota (30% margin, $3K revenue)  
+- South Dakota (30% margin, $3K revenue)  
 
 
 ## Conclusion  
 - The business is experiencing strong growth and high customer activity, but profit margins are being held back by rising costs and extensive discounting. Strategic improvements in discount control, regional expansion, and shipping efficiency can significantly boost overall performance.
 - The business is supported primarily by **Consumer-segment, senior, and loyal customers**, who generate the highest revenue and profit with minimal discount dependency. Low-value and declining customers are discount-heavy and cost the business more than they contribute. Strategic focus on high-value segments and conversion of one-time buyers will drive stronger long-term customer profitability.  
-- Technology dominates as the highest-performing category, supported by strong customer preference across all age groups. However, unprofitable discounting—especially in **Tables, Bookcases, and Supplies** is dragging down product margins. Best-sellers like **Phones, Chairs, Binders, and Paper** continue to drive both demand and revenue, signaling where the company should concentrate inventory and promotional efforts.
+- Technology dominates as the highest-performing category, supported by strong customer preference across all age groups. However, unprofitable discounting, especially in **Tables, Bookcases, and Supplies** is dragging down product margins. Best-sellers like **Phones, Chairs, Binders, and Paper** continue to drive both demand and revenue, signaling where the company should concentrate inventory and promotional efforts.
 - Mid-week drop indicates lower buying activity; the business performs strongest at the start and end of the week.
 - Sales momentum is strongest in the first half of the year, with a major peak in Q2. The low Q3 performance may indicate seasonal slowdown or reduced consumer activity.
 - Discounts do not strongly drive revenue. Even with stable discounting, revenue dips in mid-year, suggesting external factors like seasonality or reduced demand.
@@ -314,11 +304,11 @@ These states show strong profit margins but low revenue due to small customer ba
     - Shipping cost?
     - Discount abuse?
     - Channel profitability?
-- Build State-Specific Strategies
- - High revenue + high margin → Growth & retention focus
- - Low revenue + high margin → Market expansion
- - High revenue + low margin → Cost correction
- - Low revenue + low margin → Consider deprioritizing
+- Build State-Specific Strategies:
+    - High revenue + high margin → Growth & retention focus
+    - Low revenue + high margin → Market expansion
+    - High revenue + low margin → Cost correction
+    - Low revenue + low margin → Consider deprioritizing
 - Focus on Loyal and Young Adult/Senior customers, who generate the highest revenue and purchase value.
 - Launch targeted retention campaigns for Occasional customers (email reminders, loyalty points, tailored bundles).
 - Reduce excessive discounting for already high-value segments to improve profit margins.
@@ -328,12 +318,9 @@ These states show strong profit margins but low revenue due to small customer ba
 - Increase inventory for high-demand products (Binders, Paper, Phones) to maintain fulfillment efficiency
 - Shift from broad discounting to targeted, data-driven promotions.  
 - Apply discounts mainly to Elastic products (Copiers, Paper) that remain profitable even with price cuts.
-- Reduce discount intensity in the South region, where high discounting is hurting profit.
 - Prepare inventory in advance for mid-year peak months.  
 - Spread out promotional spending to avoid heavy profit drops in Q2 and Q4.  
 - Introduce cross-sell bundles during peak periods to increase revenue without heavy discounts.  
-- Conduct deeper analysis of the South region’s low profitability — likely due to discounting or logistics inefficiencies.  
-- Grow presence in the East & Central regions with targeted ads or partnerships.
 - Strengthen logistics and reduce delivery delays by working with better carriers or optimizing routes.
 
 
