@@ -133,31 +133,9 @@ These groups could be further nurtured with:
 - Loyalty discounts  
 
 #### 4. Loyal Customers Are the Revenue Powerhouse
-The **Loyal customer segment** delivers the highest revenue (**$943K**) with lower discount usage compared to other categories, these customers should remain a priority for retention strategies.
-
-#### 5. One-Time Buyers Present a Growth Opportunity
-One-time buyers contribute **$835K in revenue** but consume **$120K in discounts**, suggesting many buy only during promotions.  
-Turning even a small percentage of this group into loyal customers can significantly increase profit.
-
-#### 6. Declining Customers Have High Discount Dependency
-The declining customer group has very low revenue (**$2K**) but extremely high discount usage (**$316**), indicating:  
-- Low engagement  
-- Heavy reliance on discount campaigns  
-
-This group should be deprioritized, with resources reallocated to more profitable customer types.
-
-#### 7. High-Value Customers Generate Most Revenue and Highest Profit
-From the Customer Value chart:  
-- High-value customers: **$1.21M revenue** and **$394K profit**  
-- Medium-value customers: less  
-- Low-value customers: **$248K revenue** but negative profit due to discounts  
-
-Implications:  
-- Focus retention efforts on high-value customers  
-- Motivate medium-value customers to increase purchase frequency  
-- Reduce discount exposure to low-value customers
-
-#### 8. Senior and Young Adult Segments Yield the Highest Profit
+The **Loyal customer segment** delivers the highest revenue (**$1.8M**) with a higher profit compared to other customer types, these customers dominate the customer base and are by far the largest, meanwhile, Active, One-time Buyers, and New customers are extremely few, this shows low customer acquisition and limited new customer activation. The business is heavily dependent on existing loyal customers. Growth is likely coming more from retention than acquisition, which can be risky long-term.  
+  
+#### 5. Senior and Young Adult Segments Yield the Highest Profit
 In the profit-by-age chart:  
 - Senior group: **$108K profit**  
 - Young Adults: **$55K profit**  
@@ -289,7 +267,7 @@ These states show strong profit margins but low revenue due to small customer ba
 
 ## Conclusion  
 - The business is experiencing strong growth and high customer activity, but profit margins are being held back by rising costs and extensive discounting. Strategic improvements in discount control, regional expansion, and shipping efficiency can significantly boost overall performance.
-- The business is supported primarily by **Consumer-segment, senior, and loyal customers**, who generate the highest revenue and profit with minimal discount dependency. Low-value and declining customers are discount-heavy and cost the business more than they contribute. Strategic focus on high-value segments and conversion of one-time buyers will drive stronger long-term customer profitability.  
+- The business is supported primarily by **Consumer-segment, senior, and loyal customers**, who generate the highest revenue and profit. Loyal customers are being rewarded with discounts, which is good for retention, but the discount amount is very high compared to other groups. Strategic focus and conversion of occassional, active and one-time buyers segments will drive stronger long-term customer profitability and customer acquisition. 
 - Technology dominates as the highest-performing category, supported by strong customer preference across all age groups. However, unprofitable discounting, especially in **Tables, Bookcases, and Supplies** is dragging down product margins. Best-sellers like **Phones, Chairs, Binders, and Paper** continue to drive both demand and revenue, signaling where the company should concentrate inventory and promotional efforts.
 - Mid-week drop indicates lower buying activity; the business performs strongest at the start and end of the week.
 - Sales momentum is strongest in the first half of the year, with a major peak in Q2. The low Q3 performance may indicate seasonal slowdown or reduced consumer activity.
@@ -312,8 +290,9 @@ These states show strong profit margins but low revenue due to small customer ba
     - High revenue + low margin → Cost correction
     - Low revenue + low margin → Consider deprioritizing
 - Focus on Loyal and Young Adult/Senior customers, who generate the highest revenue and purchase value.
-- Launch targeted retention campaigns for Occasional customers (email reminders, loyalty points, tailored bundles).
-- Reduce excessive discounting for already high-value segments to improve profit margins.
+- Strengthen Customer Acquisition by Increaseing marketing to grow the “New” and “Active” segments.
+- Reevaluate Discounts for Loyal Customers by Checking if you can reduce discount levels without harming loyalty.
+- Convert More Occasional to Loyal, They are already generating revenue, With targeted promotions, they can become the next biggest profitable group.
 - Expand Technology product offerings, especially Phones and Computer Accessories.
 - Reassess or reposition low-performing product categories (Supplies, Art).
 - Reduce deep discounts on unprofitable items like Tables and Bookcases, or consider phase-out.
