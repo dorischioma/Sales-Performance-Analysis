@@ -87,7 +87,7 @@ To connect, clean, and merge all data sources into a single Excel-based model us
 ![Overview Dashboard](https://github.com/dorischioma/Sales-Performance-Analysis/blob/main/Overview%20Dashboard.png)  
 
  
-#### Insights  
+### Insights  
 #### 1. Strong Revenue Growth but Margin Pressure
 The business generated **$2.3M in revenue** with a healthy YoY increase. However, **profit margin sits at 12.47%**, showing a slight decline due to rising operational costs and heavy use of discounts. This indicates the need for tighter cost control and more strategic discounting.
 
@@ -115,7 +115,7 @@ Average delivery time stands at **3.96 days**, with most orders fulfilled within
 ### Customer Dashboard
 ![Customer Dashboard](https://github.com/dorischioma/Sales-Performance-Analysis/blob/main/Customer%20Dashboard.png)  
 
-#### Key Insights
+### Insights
 
 #### 1. Consumer Segment Dominates the Customer Base
 The **Consumer segment (409 customers)** is the largest group compared to Corporate and Home Office.  
@@ -168,7 +168,7 @@ These two demographics represent the highest profit potential and should be prio
 ### Product Dashboard
 ![Product Dashboard](https://github.com/dorischioma/Sales-Performance-Analysis/blob/main/Product%20Dashboard.png)  
 
-#### Key Insights
+### Insights
 
 #### 1. Technology Products Are the Most Preferred Across All Age Groups
 All age groups especially Seniors and Young Adults show their highest spending in the **Technology** category.  
@@ -231,7 +231,7 @@ This means the older demographic directly influences product performance, and **
 ### Sales Dashboard  
 ![Sales Dashboard](https://github.com/dorischioma/Sales-Performance-Analysis/blob/main/Sales%20Dashboard.png)  
 
-#### Key Insights
+### Insights
 #### 1. Daily sales trend  
 - Sales peak on **Monday–Tuesday**, averaging around **$380K–$420K**.  
 - The lowest sales occur on **Wednesday–Thursday**, dropping to about **$200K–$230K**.  
@@ -265,6 +265,8 @@ This means the older demographic directly influences product performance, and **
 
 ### Geo map Dashboard
 ![Geo map Dashboard](https://github.com/dorischioma/Sales-Performance-Analysis/blob/main/Geo%20Map%20page.png)  
+
+### Insights  
 #### Best Overall States (Strong Revenue, Margin & Customer Base)
 - California: High revenue ($451K) + high margin (13%) + most customers.  
 - New York: High revenue ($280K) + high margin (21%).  
