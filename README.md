@@ -133,7 +133,7 @@ These groups could be further nurtured with:
 - Loyalty discounts  
 
 #### 4. Loyal Customers Are the Revenue Powerhouse
-The **Loyal customer segment** delivers the highest revenue (**$1.8M**) with a higher profit compared to other customer types, these customers dominate the customer base and are by far the largest, meanwhile, Active, One-time Buyers, and New customers are extremely few, this shows low customer acquisition and limited new customer activation. The business is heavily dependent on existing loyal customers. Growth is likely coming more from retention than acquisition, which can be risky long-term.  
+The **Loyal customer segment** delivers the highest revenue (**$1.8M**) with a higher profit compared to other customer types, these customers dominate the customer base and are by far the largest however, Active, One-time Buyers, and New customers are extremely few, this shows low customer acquisition and limited new customer activation. The business is heavily dependent on existing loyal customers. Growth is likely coming more from retention than acquisition, which can be risky long-term.  
   
 #### 5. Senior and Young Adult Segments Yield the Highest Profit
 In the profit-by-age chart:  
