@@ -229,7 +229,7 @@ Senior customers consistently have the highest spending across:
 This means the older demographic directly influences product performance, and **personalized offers** for this group can boost revenue further.  
 
 ### Sales Dashboard  
-![Sales Dashboard](https://github.com/dorischioma/Sales-Performance-Analysis/blob/main/Product%20Dashboard.png)  
+![Sales Dashboard](https://github.com/dorischioma/Sales-Performance-Analysis/blob/main/Sales%20Dashboard.png)  
 
 #### Key Insights
 #### 1. Daily sales trend  
@@ -264,7 +264,7 @@ This means the older demographic directly influences product performance, and **
 - Both metrics stabilize around **~$20K**
 
 ### Geo map Dashboard
-![Geo map Dashboard](https://github.com/dorischioma/Sales-Performance-Analysis/blob/main/Product%20Dashboard.png)  
+![Geo map Dashboard](https://github.com/dorischioma/Sales-Performance-Analysis/blob/main/Geo%20Map%20page.png)  
 #### Best Overall States (Strong Revenue, Margin & Customer Base)
 - California: High revenue ($451K) + high margin (13%) + most customers.  
 - New York: High revenue ($280K) + high margin (21%).  
